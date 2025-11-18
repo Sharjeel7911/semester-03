@@ -7,10 +7,10 @@
 # Allow code and docs recursively
 !**/*.cpp
 !**/*.h
+!**/*.asm
 !**/*.txt
 !**/*.docx
-!**/*.txt
-!**/*.asm
+!**/*.pdf
 
 # Ignore compiled binaries
 *.out
