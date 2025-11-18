@@ -10,6 +10,7 @@
 !**/*.txt
 !**/*.docx
 !**/*.txt
+!**/*.asm
 
 # Ignore compiled binaries
 *.out
