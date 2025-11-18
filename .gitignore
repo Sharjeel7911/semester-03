@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Allow folders recursively
+!*/
+
+# Allow code and docs recursively
+!**/*.cpp
+!**/*.h
+!**/*.txt
+!**/*.docx
+!**/*.txt
+
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+*.DS_Store
