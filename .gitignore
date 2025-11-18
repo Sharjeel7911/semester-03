@@ -22,3 +22,6 @@
 
 # Ignore system files
 *.DS_Store
+
+# Ignore Windows Zone.Identifier streams
+*:*Zone.Identifier
